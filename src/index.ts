@@ -1,6 +1,6 @@
 // Basic Types
 let id: number = 5
-console.log('ID', id)
+console.log('ID:', id)
 
 let comapanyName: String = 'Poetherapy Ink LTD'
 let isPublished: boolean = true
